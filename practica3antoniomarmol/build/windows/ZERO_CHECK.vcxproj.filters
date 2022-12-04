@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Antonio Marmol\OneDrive\Escritorio\DAM 2\Programacion multimedia\Practica3\app_movie_prueba\build\windows\CMakeFiles\6d789ae98a1168fff9da4ca037044d8d\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4C59E568-0A06-3F6D-A3CE-354DCDAEEFC3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
