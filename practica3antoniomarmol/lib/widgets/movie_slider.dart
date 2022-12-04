@@ -26,7 +26,7 @@ class MovieSlider extends StatelessWidget {
           Expanded(
             child: ListView.builder(
                 scrollDirection: Axis.horizontal,
-                itemCount: 20,
+                itemCount: movies.length,
                 itemBuilder: (_, int index) => _MoviePoster(
                       movies: movies[index],
                     )),
